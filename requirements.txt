@@ -1,0 +1,12 @@
+accelerate==0.19.0
+datasets==2.12.0
+huggingface-hub==0.14.1
+numpy @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f9f5xs2fx0/croot/numpy_and_numpy_base_1682520577456/work
+pandas==2.0.1
+peft==0.3.0
+torch==2.0.1
+torchaudio==2.0.2
+torchvision==0.15.2
+transformers==4.29.1
+wandb==0.15.2
+
